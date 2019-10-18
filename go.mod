@@ -1,4 +1,4 @@
-module github.com/terraform-providers/terraform-provider-aws
+module github.com/terraform-providers/terraform-provider-aws/v2
 
 require (
 	github.com/aws/aws-sdk-go v1.19.26
@@ -33,3 +33,5 @@ require (
 	k8s.io/klog v0.1.0 // indirect
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
+
+go 1.13
