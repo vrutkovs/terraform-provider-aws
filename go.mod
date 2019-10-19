@@ -5,9 +5,8 @@ require (
 	github.com/beevik/etree v1.1.0
 	github.com/boombuler/barcode v1.0.0 // indirect
 	github.com/client9/misspell v0.3.4
-	github.com/go-toolsmith/pkgload v0.0.0-20181120203407-5122569a890b // indirect
 	github.com/golangci/go-tools v0.0.0-20190124090046-35a9f45a5db0 // indirect
-	github.com/golangci/golangci-lint v1.16.0
+	github.com/golangci/golangci-lint v1.19.1 // indirect
 	github.com/golangci/gosec v0.0.0-20180901114220-8afd9cbb6cfb // indirect
 	github.com/google/gofuzz v0.0.0-20170612174753-24818f796faf // indirect
 	github.com/hashicorp/aws-sdk-go-base v0.3.0
@@ -24,7 +23,6 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pquerna/otp v1.1.0
-	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/terraform-providers/terraform-provider-template v1.0.0
 	github.com/terraform-providers/terraform-provider-tls v1.2.0
 	gopkg.in/yaml.v2 v2.2.2
